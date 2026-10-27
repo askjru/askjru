@@ -1,5 +1,19 @@
-## Hi there 👋
+## Hi I'm Jay 👋
+🎓 Mathematical & Physical Sciences student at the University of Toronto
 
+💻 Interested in Software Engineering, Data Analytics, and Machine Learning
+
+## Skills
+- Python
+- Object-Oriented Programming
+- Learning Git, SQL, and Data Structures
+
+## Currently Working On
+- Building my first independent Python projects
+- Improving my programming and problem-solving skills
+
+## Projects
+Coming soon!
 <!--
 **askjru/askjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
