@@ -1,7 +1,7 @@
 ## Hi I'm Jay 👋
-🎓 Mathematical & Physical Sciences student at the University of Toronto
+- Mathematical & Physical Sciences student at the University of Toronto
 
-💻 Interested in Software Engineering, Data Analytics, and Machine Learning
+- Interested in Software Engineering, Data Analytics, and Machine Learning
 
 ## Skills
 - Python
@@ -13,7 +13,7 @@
 - Improving my programming and problem-solving skills
 
 ## Projects
-Coming soon!
+- study-analyzer: analyze study data, set goals for you, and review your performance
 <!--
 **askjru/askjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
