@@ -9,7 +9,7 @@
 - Learning Git, SQL, and Data Structures
 
 ## Currently Working On
-- Building my first independent Python projects
+- Building my projects
 - Improving my programming and problem-solving skills
 
 ## Projects
