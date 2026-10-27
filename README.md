@@ -1,5 +1,5 @@
 ## Hi I'm Jay 👋
-- Mathematical & Physical Sciences student at the University of Toronto
+- First year Mathematical & Physical Sciences student at the University of Toronto
 
 - Interested in Software Engineering, Data Analytics, and Machine Learning
 
