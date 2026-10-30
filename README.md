@@ -13,7 +13,7 @@
 - Improving my programming and problem-solving skills
 
 ## Projects
-- study-analyzer: analyze study data, set goals for you, and review your performance
+- study-analyzer: analyze study data against your goals
 <!--
 **askjru/askjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
