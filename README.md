@@ -14,6 +14,7 @@
 
 ## Projects
 - study-analyzer: analyze study data against your goals
+- The-Primer: inspired by YC's requests for startups, a tutoring AI that adapts to each children. 
 <!--
 **askjru/askjru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
